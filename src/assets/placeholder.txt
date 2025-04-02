@@ -1,0 +1,15 @@
+Por favor, adicione as seguintes imagens nesta pasta:
+
+1. hero-bg.jpg - Imagem de fundo para a seção hero
+2. property-bg.jpg - Imagem de fundo para a seção de propriedades
+3. propriedade1.jpg - Imagem principal do apartamento de luxo
+4. propriedade1-2.jpg - Segunda imagem do apartamento de luxo
+5. propriedade1-3.jpg - Terceira imagem do apartamento de luxo
+6. propriedade2.jpg - Imagem principal da casa moderna
+7. propriedade2-2.jpg - Segunda imagem da casa moderna
+8. propriedade2-3.jpg - Terceira imagem da casa moderna
+9. terreno1.jpg - Imagem principal do terreno urbano
+10. terreno1-2.jpg - Segunda imagem do terreno urbano
+11. terreno1-3.jpg - Terceira imagem do terreno urbano
+
+Todas as imagens devem ter boa qualidade e resolução adequada para exibição na web. 
